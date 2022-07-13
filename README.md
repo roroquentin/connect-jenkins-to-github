@@ -1,2 +1,2 @@
-### Jenkins Test
-## Connecting Jenkins to GitHub
+## Jenkins Test
+### Connecting Jenkins to GitHub
